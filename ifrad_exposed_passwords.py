@@ -2,11 +2,12 @@
 #  Vulnerability: Exposed Passwords in Public Directory
 #  Target: files.0x10.cloud
 
-'''This script connects to the target URL and attempts to read
+'''
+This script connects to the target URL and attempts to read
 a file that should be kept secret. Sensitive files like 
 passwords.txt being publicly accessible is a major security risk,
-as attackers can use these credentials to compromise the system.'''
-
+as attackers can use these credentials to compromise the system.
+'''
 
 import urllib.request
 import urllib.error
