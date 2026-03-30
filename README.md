@@ -2,13 +2,13 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team Slitherers
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| Ifrad | Exposed Passwords in Public Directory | ifrad |
+| Ifrad | Exposed DNS Zone Transfer Vulnerability (AXFR Leaks) | ifrad |
 | _______ | _______ | _______ |
 | _______ | _______ | _______ |
 
