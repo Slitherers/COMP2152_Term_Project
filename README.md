@@ -7,7 +7,6 @@ Slitherers
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
 | Luis | SQL INJECTION (SQLi)| Luis|
 | _______ | _______ | _______ |
 
