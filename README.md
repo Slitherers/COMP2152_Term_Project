@@ -1,15 +1,14 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+Slitherers
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
 | _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Luis | SQL INJECTION (SQLi)| Luis|
 | _______ | _______ | _______ |
 
 ## Videos
@@ -17,7 +16,7 @@ Team _______
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
 - Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
+- Luis Tello: https://youtube.com/watch?v=_______
 - Member 3: https://youtube.com/watch?v=_______
 
 ## Target
