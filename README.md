@@ -16,7 +16,7 @@ Team Slitherers
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Ifrad: https://www.youtube.com/watch?v=W_ybtb98jdg
+- Ifrad: https://youtu.be/-Q0V9mLr9-c
 - Member 2: https://youtube.com/watch?v=_______
 - Member 3: https://youtube.com/watch?v=_______
 
