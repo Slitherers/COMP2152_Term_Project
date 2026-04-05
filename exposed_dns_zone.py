@@ -1,5 +1,5 @@
 #  Author: Ifrad Hossain 101587843
-#  Vulnerability: DNS Zone Transfer Leak (AXFR)
+#  Vulnerability: DNS Zone Transfer Leak
 #  Target: dns.0x10.cloud
 '''
 This script checks for a DNS Zone Transfer vulnerability on dns.0x10.cloud.
