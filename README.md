@@ -10,7 +10,7 @@ Team Slitherers
 |--------|-------------------|-------------|
 | Ifrad | Exposed DNS Zone Transfer Vulnerability (AXFR Leaks) | ifrad |
 | _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Paul    | Public Bucket Listing (No Authentication) | Paul    |
 
 ## Videos
 
