@@ -2,7 +2,7 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Slitherers
+Team Slitherers
 
 ## Team Members
 

@@ -1,0 +1,38 @@
+==================================================
+Open Cloud Storage Bucket Check
+Target: https://storage.0x10.cloud/
+==================================================
+
+Sending unauthenticated GET request...
+HTTP Status: 200
+
+[!] VULNERABILITY FOUND
+The storage bucket listing is publicly accessible.
+No authentication was required to list its contents.
+Anyone on the internet can see all files in this bucket.
+
+RECOMMENDED FIX:
+Set the bucket access to private so only authorized
+users can view or list the files inside it.
+
+==================================================
+
+==================================================
+Missing Security Headers Check
+Target: https://storage.0x10.cloud/
+==================================================
+
+Checking response headers...
+
+[!] VULNERABILITY FOUND
+The following security headers are missing:
+  - X-Frame-Options
+  - X-Content-Type-Options
+  - Strict-Transport-Security
+  - Content-Security-Policy
+
+RECOMMENDED FIX:
+Add the missing headers to the server's HTTP response.
+
+==================================================
+
