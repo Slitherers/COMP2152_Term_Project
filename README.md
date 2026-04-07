@@ -2,13 +2,13 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Slitherers
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
+| Paul    | Public Bucket Listing (No Authentication) | Paul    |
 | _______ | _______ | _______ |
 | _______ | _______ | _______ |
 
