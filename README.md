@@ -2,13 +2,13 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team Slitherers
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
+| Ifrad | Exposed DNS Zone Transfer Vulnerability (AXFR Leaks) | ifrad |
 | _______ | _______ | _______ |
 | _______ | _______ | _______ |
 
@@ -16,7 +16,7 @@ Team _______
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
+- Ifrad: https://youtu.be/-Q0V9mLr9-c
 - Member 2: https://youtube.com/watch?v=_______
 - Member 3: https://youtube.com/watch?v=_______
 
