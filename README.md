@@ -8,9 +8,9 @@ Slitherers
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
+| _______ | _______ | _______ |
+| _______ | _______ | _______ |
 | Paul    | Public Bucket Listing (No Authentication) | Paul    |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
 
 ## Videos
 
