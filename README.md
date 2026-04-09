@@ -18,7 +18,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 
 - Ifrad: https://www.youtube.com/watch?v=tcTzTY6kVDE
 - Luis: https://youtu.be/PhTPAuM34kI
-- Member 3: https://youtube.com/watch?v=_______
+- Paul Y.: https://youtu.be/xNZfHIYIBVc
 
 ## Target
 
