@@ -16,7 +16,7 @@ import urllib.request
 import urllib.parse
 import time
 
-TARGET = "http://blog.0x10.cloud"
+TARGET = "http://blog.0x10.cloud/"
 DELAY  = 0.15  # 150ms → ~6 req/sec, safely under the 10/sec limit
 
 # ── Helpers ──────────────────────────────────────────────────
@@ -115,7 +115,7 @@ PASSWORDS = [
 # ── Main ─────────────────────────────────────────────────────
 
 print("=" * 60)
-print("  Credential Attack — blog.0x10.cloud")
+print("  Credential Attack — http://blog.0x10.cloud/")
 print("=" * 60)
 
 print("\n  [*] Auto-detecting login path...")
