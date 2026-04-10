@@ -1,24 +1,25 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+Team Slitherers
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Ifrad | Exposed DNS Zone Transfer Vulnerability (AXFR Leaks) | ifrad |
+| Luis | SQL INJECTION (SQLi)| Luis|
+| Paul | Public Bucket Listing (No Authentication) | Paul |
+| John Sebastian Laquis | Weak/Default Credentials Authentication Flaw | john-sebastian-laquis |
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
+- Ifrad: https://www.youtube.com/watch?v=tcTzTY6kVDE
+- Luis: https://youtu.be/PhTPAuM34kI
+- Paul Y.: https://youtu.be/6kDy-Tozwg8 
+- John Sebastian Laquis: (video link coming soon)
 
 ## Target
 
