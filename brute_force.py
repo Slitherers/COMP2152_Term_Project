@@ -97,13 +97,13 @@ def worker(path):
                     return
                 FOUND = True
 
-            print("\n" + "🚨" * 20)
-            print("🚨  SUCCESS — VALID CREDENTIALS FOUND!  🚨")
-            print(f"🚨  USERNAME: {username}")
-            print(f"🚨  PASSWORD: {password}")
-            print(f"🚨  LENGTH: {length}")
-            print(f"🚨  URL: {final_url}")
-            print("🚨" * 20 + "\n")
+            print("\n" + "-" * 25)
+            print("-  SUCCESS — VALID CREDENTIALS FOUND!  -")
+            print(f"-  USERNAME: {username}")
+            print(f"-  PASSWORD: {password}")
+            print(f"-  LENGTH: {length}")
+            print(f"-  URL: {final_url}")
+            print("-" * 25 + "\n")
 
             # graceful stop (NOT sys.exit in threads)
             return
@@ -166,7 +166,7 @@ for _ in range(THREADS):
     threads.append(t)
 
 for t in threads:
-    t.join()
+    t.join() 
 
 print("\nBrute force attack complete.")
 print("=" * 60)
