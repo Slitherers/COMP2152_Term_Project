@@ -19,7 +19,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 - Ifrad: https://www.youtube.com/watch?v=tcTzTY6kVDE
 - Luis: https://youtu.be/PhTPAuM34kI
 - Paul Y.: https://youtu.be/6kDy-Tozwg8 
-- John Sebastian Laquis: (video link coming soon)
+- John Sebastian Laquis: https://youtu.be/A7EKSEJRCqA
 
 ## Target
 
