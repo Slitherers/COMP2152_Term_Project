@@ -10,7 +10,7 @@ Team Slitherers
 | Ifrad | Exposed DNS Zone Transfer Vulnerability (AXFR Leaks) | ifrad |
 | Luis | SQL INJECTION (SQLi)| Luis|
 | Paul | Public Bucket Listing (No Authentication) | Paul |
-| John Sebastian Laquis | Weak/Default Credentials Authentication Flaw | john-sebastian-laquis |
+| John Sebastian Laquis | Weak/Default Credentials Authentication Flaw | JohnSLaquis |
 
 ## Videos
 
